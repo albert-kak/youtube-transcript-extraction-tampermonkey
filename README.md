@@ -8,6 +8,10 @@ The script primarily uses YouTube's modern `get_panel` API:
 
 If the live page state is dirty after YouTube SPA navigation, the script will try to recover by fetching the current watch page HTML again and parsing fresh transcript-related data from it.
 
+## Demo
+
+![Demo](assets/demo.gif)
+
 ## Files
 
 - [youtube-transcript-extractor.user.js](/Users/kahkiit/Documents/projects/youtube-transcript-extraction-tampermonkey/youtube-transcript-extractor.user.js)
